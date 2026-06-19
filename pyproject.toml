@@ -4,7 +4,9 @@ name = "astar"
 version = "0.1.0"
 description = ""
 authors = [
-    { name = "Dima" }
+    { name = "Dima" },
+    { name = "Misha" },
+    { name = "Nikita" }
 ]
 requires-python = "3.12"
 dependencies = [
