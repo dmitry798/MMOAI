@@ -1,0 +1,51 @@
+{
+  "CTRA": {
+    "file": "CTRA.csv",
+    "security_symbol": "CTRA",
+    "source_url": "",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Supply verified original-security Close, no acquirer substitution"
+  },
+  "DAY": {
+    "file": "DAY.csv",
+    "security_symbol": "DAY",
+    "source_url": "",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Supply verified original-security Close, no acquirer substitution"
+  },
+  "HES": {
+    "file": "HES.csv",
+    "security_symbol": "HES",
+    "source_url": "",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Supply verified original-security Close, no acquirer substitution"
+  },
+  "HOLX": {
+    "file": "HOLX.csv",
+    "security_symbol": "HOLX",
+    "source_url": "",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Supply verified original-security Close, no acquirer substitution"
+  },
+  "IPG": {
+    "file": "IPG.csv",
+    "security_symbol": "IPG",
+    "source_url": "",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Supply verified original-security Close, no acquirer substitution"
+  },
+  "JNPR": {
+    "file": "JNPR.csv",
+    "security_symbol": "JNPR",
+    "source_url": "",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Supply verified original-security Close, no acquirer substitution"
+  },
+  "QRVO": {
+    "file": "QRVO.csv",
+    "security_symbol": "QRVO",
+    "source_url": "",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Supply verified original-security Close, no acquirer substitution"
+  }
+}

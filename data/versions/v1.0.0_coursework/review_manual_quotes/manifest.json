@@ -1,0 +1,23 @@
+{
+  "AVB": {
+    "file": "AVB.csv",
+    "security_symbol": "AVB",
+    "source_url": "https://huggingface.co/khoaliamle/SP500-Stock-Prediction/resolve/2fc5a49b09d3d988f26e5c089551780a0c3a1b71/data/sp500_stocks.csv",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Exact original-symbol Close column extracted with pandas usecols Date,Symbol,Close; no Adj Close, no filling. Archive commit 2fc5a49; last 2024-12-10, first2010-01-04. Source file bytes103936992. Archive SHA not captured at successful download; extracted-file SHA recorded by loader."
+  },
+  "WBA": {
+    "file": "WBA.csv",
+    "security_symbol": "WBA",
+    "source_url": "https://huggingface.co/khoaliamle/SP500-Stock-Prediction/resolve/2fc5a49b09d3d988f26e5c089551780a0c3a1b71/data/sp500_stocks.csv",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Exact original-symbol Close column extracted with pandas usecols Date,Symbol,Close; no Adj Close, no filling. Archive commit 2fc5a49; last 2024-12-10, first2010-01-04. Source file bytes103936992. Archive SHA not captured at successful download; extracted-file SHA recorded by loader."
+  },
+  "WBD": {
+    "file": "WBD.csv",
+    "security_symbol": "WBD",
+    "source_url": "https://huggingface.co/khoaliamle/SP500-Stock-Prediction/resolve/2fc5a49b09d3d988f26e5c089551780a0c3a1b71/data/sp500_stocks.csv",
+    "price_convention": "split_adjusted_close_excluding_dividends",
+    "notes": "Exact original-symbol Close column extracted with pandas usecols Date,Symbol,Close; no Adj Close, no filling. Archive commit 2fc5a49; last 2024-12-10, first2010-01-04. Source file bytes103936992. Archive SHA not captured at successful download; extracted-file SHA recorded by loader."
+  }
+}

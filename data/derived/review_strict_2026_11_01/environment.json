@@ -1,0 +1,25 @@
+{
+  "python": "3.12.13 | packaged by Anaconda, Inc. | (main, Mar 19 2026, 20:16:45) [MSC v.1942 64 bit (AMD64)]",
+  "executable": "c:\\Users\\dima\\anaconda3\\envs\\bz\\python.exe",
+  "packages": {
+    "numpy": "2.4.4",
+    "pandas": "3.1.0",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "joblib": "1.6.0",
+    "xgboost": "3.4.1",
+    "shap": "0.54.1",
+    "flaml": "2.7.0",
+    "yfinance": "1.7.0",
+    "ipykernel": "7.4.0"
+  },
+  "source_sha256": {
+    "src\\review_data.py": "98236a0acd548842d42ac98ae80f76c81636fbc783d34c082f8366d02956f439",
+    "src\\review_factors.py": "f162feb90e37b6a0d0c374354192560f483a30176a48b3c907ca4a660938872b",
+    "src\\review_inference.py": "32e8acb172377ef00b1d0f05148a290cfbca564544a1933b656a9fb9df0ddc6d",
+    "src\\review_protocol.py": "0a0d8f7b116fcb65bfc80b156d3678ec629e67cd6fa74ba75b1906c322111edd",
+    "src\\review_revision.py": "7e0417cfd1330b7050c754ad18cd82a18eb843fdaa1db8e60a6f5de529e8bc12"
+  }
+}

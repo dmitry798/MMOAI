@@ -1,0 +1,30 @@
+{
+  "protocol": "strict_review_v2",
+  "mode": "SMOKE_ONLY",
+  "oos_start": "2023-11-01",
+  "oos_end": "2024-11-22",
+  "label_days": 10,
+  "holding": [
+    10,
+    21
+  ],
+  "top_k": 3,
+  "capital": 100000,
+  "commission": 0.001,
+  "train_days": 253,
+  "gap_days": 10,
+  "step_days": 21,
+  "seed": 42,
+  "bootstrap": 2000,
+  "block_days": 21,
+  "model": "Random Forest",
+  "price": "Close",
+  "auto_adjust": false,
+  "execution_lag": 1,
+  "min_model_days": 0,
+  "require_full_quotes": false,
+  "primary_metric": "jensen_alpha",
+  "bootstrap_method": "circular_moving_block_basic_equal_tail_plus_one",
+  "parquet_required": false,
+  "reduced_estimators": true
+}
