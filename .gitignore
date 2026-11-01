@@ -12,6 +12,11 @@ env/
 build/
 develop-eggs/
 dist/
+data/
+models/
+docs/
+src/
+scripts/
 downloads/
 eggs/
 .eggs/
