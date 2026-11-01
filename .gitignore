@@ -16,6 +16,7 @@ data/
 models/
 docs/
 src/
+tests/
 scripts/
 downloads/
 eggs/
